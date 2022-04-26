@@ -1,0 +1,3 @@
+for(Integer num : numbers){
+	num.set(Integer.MAX_VALUE);
+}
