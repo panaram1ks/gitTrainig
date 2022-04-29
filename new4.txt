@@ -1,0 +1,10 @@
+new text file.
+getName();
+setSecondName();
+
+
+setSecondName();
+setSecondName();
+setSecondName();
+setSecondName();
+setSecondName();
