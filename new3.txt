@@ -1,3 +1,9 @@
 new text file.
 getName();
 setSecondName();
+
+
+getName();
+getName();
+getName();
+getName();
