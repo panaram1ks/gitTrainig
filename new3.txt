@@ -2,8 +2,15 @@ new text file.
 getName();
 setSecondName();
 
+getName();
+getName();
+getName();
+getName();
 
-getName();
-getName();
-getName();
-getName();
+secondName();
+secondName();
+secondName();
+secondName();
+secondName();
+secondName();
+
